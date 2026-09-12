@@ -328,7 +328,9 @@
     "sno6":false,
     "sno7":false,
     "sno8":false,
-    "sno9":false
+    "sno9":false,
+    "snoi":true,
+    "snoai":true
   },
   "Everyone": {
     "_movesFile": "data/moves/everyone.json",

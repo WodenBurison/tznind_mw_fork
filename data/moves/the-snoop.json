@@ -3,7 +3,7 @@
         "id": "sno1",
         "title": "Your Crew",
         "hideCheckbox": true,
-        "description": "Decide if your crew is the other hunters, or if you have an entourage. If they are not the hunters, there are up to three of them. Pick a name and job for each. Tell the Keeper–your crew are **bystanders**.\nIf it’s the other hunters, decide together who gets which job.\nCrew jobs: camera, sound, editing, dogsbody, researcher, driver, director, producer, bodyguard."
+        "description": "Decide if your crew is the other hunters, or if you have an entourage. If they are not the hunters, there are up to three of them. Pick a name and job for each. Tell the Keeper–your crew are **bystanders**.\nIf it’s the other hunters, decide together who gets which job.\nCrew jobs: camera, sound, editing, dogsbody, researcher, driver, director, producer, bodyguard.",
         "details": true
     },
     {
@@ -13,7 +13,7 @@
     },
     {
         "id": "sno3",
-        "title": "\“What Does That Feel Like?\”",
+        "title": "“What Does That Feel Like?”",
         "description": "When you put your camera or microphone right in a person’s face, they break off whatever they are doing. They might go right back to it after they deal with you, but you’ll create enough time for the other hunters to act in the meantime."
     },
     {
@@ -69,7 +69,7 @@
                     "SLR camera",
                     "Nice smartphone",
                     "__sno10a:Custom__",
-                    "__sno10b:Custom__",
+                    "__sno10b:Custom__"
                 ]
             },
             {
@@ -89,7 +89,7 @@
                     "Pendulum",
                     "Tarot deck",
                     "__sno10c:Custom__",
-                    "__sno10d:Custom__",
+                    "__sno10d:Custom__"
                 ]
             },
             {
@@ -100,7 +100,7 @@
                     "Stun gun (1-harm hand stun)",
                     "Baseball/cricket bat (2-harm hand innocuous messy)",
                     "Handgun (2-harm close loud)",
-                    "Knife (1-harm hand hidden)",
+                    "Knife (1-harm hand hidden)"
                 ]
             }
         ]
@@ -125,7 +125,7 @@
         ]
     },
   {
-    "id": "crai",
+    "id": "snoai",
     "title": "Advanced Improvements",
     "hideCheckbox": true,
     "category": "Improvement",
