@@ -308,6 +308,28 @@
     "wai": true,
     "fsh": false
   },
+  "The Snoop":{
+    "_movesFile": "data/moves/the-snoop.json",
+    "description": "Cryptids have kept out of sight, but I’m going to find them and record them. The evidence will be incontrovertible, and I’ll be the one who did it. I’m going to be a superstar one day, you mark my words! Hey... did you just feel a chill?",
+    "statDistributions":[
+      "Charm +2, Cool -1, Sharp +1, Tough 0, Weird +1",
+      "Charm +2, Cool 0, Sharp +1, Tough -1, Weird +1",
+      "Charm +2, Cool +1, Sharp +1, Tough 0, Weird -1",
+      "Charm +2, Cool -1, Sharp +2, Tough -1, Weird 0",
+      "Charm +2, Cool +1, Sharp 0, Tough -1, Weird +1"
+    ],
+    "luckSpecial":"Whenever you spend a Luck point, you’re going to have technical difficulties. Breakdowns, communication problems, weird noises in the recordings, etc.",
+    "sno1":true,
+    "sno10":true,
+    "sno2":true,
+    "sno3":false,
+    "sno4":false,
+    "sno5":false,
+    "sno6":false,
+    "sno7":false,
+    "sno8":false,
+    "sno9":false
+  },
   "Everyone": {
     "_movesFile": "data/moves/everyone.json",
     "description": "Universal moves available to all characters.",

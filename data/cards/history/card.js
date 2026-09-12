@@ -127,6 +127,16 @@ window.CardInitializers.history = function(container, suffix) {
             'You\'ve known each other some time, but since your powers manifested, you keep them at a distance emotionally.',
             'You hope they can help you control your powers.',
             'They saw you use your powers for selfish or vindictive reasons. Ask them who the victim was, and then tell them what you did.'
+        ],
+        'The Snoop': [
+            'You’re best friends from school/university (film class, maybe?)',
+            'You met this hunter when they killed a monster you were doing a story on. Ask them what it was.',
+            'This hunter almost defeated a monster but you did something to prevent that. Ask them what the monster was, then tell them what you did. Was it an accident or on purpose?',
+            'This hunter was in danger of some having unhelpful publicity, but you got the story killed.',
+            'You have a crush on this hunter. Ask them if they’ve noticed.',
+            'This hunter saved your ass when you did something stupid. Ask them what you did.',
+            'This hunter is a huge fan of your work. Ask them if they keep quiet about it or if everyone knows?',
+            'This hunter is a relation, close or distant. Decide between you exactly what.'
         ]
     };
 

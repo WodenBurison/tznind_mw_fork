@@ -1,0 +1,160 @@
+[
+    {
+        "id": "sno1",
+        "title": "Your Crew",
+        "hideCheckbox": true,
+        "description": "Decide if your crew is the other hunters, or if you have an entourage. If they are not the hunters, there are up to three of them. Pick a name and job for each. Tell the Keeper–your crew are **bystanders**.\nIf it’s the other hunters, decide together who gets which job.\nCrew jobs: camera, sound, editing, dogsbody, researcher, driver, director, producer, bodyguard."
+        "details": true
+    },
+    {
+        "id": "sno2",
+        "title": "Starting Moves",
+        "description": "You get all the basic moves, plus 3 more. Pick from the following list."
+    },
+    {
+        "id": "sno3",
+        "title": "\“What Does That Feel Like?\”",
+        "description": "When you put your camera or microphone right in a person’s face, they break off whatever they are doing. They might go right back to it after they deal with you, but you’ll create enough time for the other hunters to act in the meantime."
+    },
+    {
+        "id": "sno4",
+        "title": "Minor Celebrity",
+        "description": "At the beginning of each mystery, roll +Weird. On a 10+ hold 2 and on a 7-9 hold 1. Spend your hold during the mystery to have someone you meet know of you in a positive light (maybe they read your blog, listen to your podcast, or watch your Internet/TV show, etc). You may end up getting asked for autographs or given \“hot\” leads, etc."
+    },
+    {
+        "id": "sno5",
+        "title": "We’ll Fix It In Post",
+        "description": "You can use anything you could conceivably have recorded as evidence for investigate a mystery, allowing you to check previous interviews, attack sites, and so on from the comfort of your laptop."
+    },
+    {
+        "id": "sno6",
+        "title": "Press Accreditation",
+        "description": "When you investigate a mystery by talking to witnesses, interviewing locals, or anything else requiring interpersonal skills, roll +Charm instead of +Sharp."
+    },
+    {
+        "id": "sno7",
+        "title": "Truthiness",
+        "description": "Whatever you tell a normal person, they’ll accept that you think it’s true. If it’s far out, they might think you’re deluded, but they won’t think you’re lying."
+    },
+    {
+        "id": "sno8",
+        "title": "The Mojo Wire",
+        "description": "When you spend a while reading all the latest news feeds looking for the weird stuff, take +1 forward."
+    },
+    {
+        "id": "sno9",
+        "title": "Relaxed Producer",
+        "description": "You’re employed, with a regular pay check and little or no oversight. As long as you send in a story every few days, no matter how bizarre, you’re set. Every now and again they’ll send you somewhere in particular, and when that happens it usually involves supernatural activity. Unless they need human interest, in which case it will be a kitten show or agricultural fair or something."
+    },
+    {
+        "id": "sno10",
+        "title": "Gear",
+        "description": "You get a laptop, three recording devices, two detectors and one subtle weapon.",
+        "submoves": [
+            {
+                "title": "Recording Devices",
+                "description": "Pick three:",
+                "pick": [
+                    "Video camera",
+                    "Tiny digital camera",
+                    "Film camera",
+                    "Digital recorder",
+                    "Tape recorder",
+                    "Infrared camera",
+                    "Pro sound gear",
+                    "Camera drone",
+                    "Starlight camera",
+                    "Steadicam rig",
+                    "Laser microphone",
+                    "SLR camera",
+                    "Nice smartphone",
+                    "__sno10a:Custom__",
+                    "__sno10b:Custom__",
+                ]
+            },
+            {
+                "title": "Detectors",
+                "description": "Pick two:",
+                "pick": [
+                    "Electromagnetic field detector",
+                    "Temperature fluctuation detector",
+                    "Ouija board",
+                    "Humidity meter",
+                    "Dowsing rods",
+                    "Chemistry test kit",
+                    "Metal detector",
+                    "Compass",
+                    "GPS receiver",
+                    "Laser rangefinder",
+                    "Pendulum",
+                    "Tarot deck",
+                    "__sno10c:Custom__",
+                    "__sno10d:Custom__",
+                ]
+            },
+            {
+                "title": "Subtle weapons",
+                "description": "Pick one:",
+                "pick": [
+                    "Multitool/pocket knife (1-harm hand hidden useful)",
+                    "Stun gun (1-harm hand stun)",
+                    "Baseball/cricket bat (2-harm hand innocuous messy)",
+                    "Handgun (2-harm close loud)",
+                    "Knife (1-harm hand hidden)",
+                ]
+            }
+        ]
+    },
+    {
+        "id": "snoi",
+        "title": "Improvement",
+        "hideCheckbox": true,
+        "category": "Improvement",
+        "description": "When you have filled all five experience boxes, you level up. Erase the marks and pick from below.",
+        "pick": [
+            "Get +1 Charm (Max +3)",
+            "Get +1 Cool (Max +2)",
+            "Get +1 Weird (Max +2)",
+            "Get +1 Sharp (Max +2)",
+            "Take another Snoop move",
+            "Take another Snoop move",
+            "Gain an ally: one of your existing crew members or the whole crew as an ally team",
+            "Get a haven, like the Expert has, with one option plus a film lab and editing suite",
+            "Take a move from another playbook",
+            "Take a move from another playbook"
+        ]
+    },
+  {
+    "id": "crai",
+    "title": "Advanced Improvements",
+    "hideCheckbox": true,
+    "category": "Improvement",
+    "description": "After you have leveled up *five* times, you additionally qualify for advanced improvements.",
+    "pick": [
+      "Get +1 to any rating (Max +3)",
+      "Change this hunter to a new type",
+      "Create a second hunter to play as well as this one",
+      "Mark two of the basic moves as advanced",
+      "Mark another two of the basic moves as advanced",
+      "Retire this hunter to safety",
+      "Make it big. You’re a superstar now!"
+    ],
+    "details": true,
+    "submoves": [
+      {
+        "title": "Advanced Moves",
+        "pick": [
+          "Kick Some Ass",
+          "Act Under Pressure",
+          "Help Out",
+          "Investigate A Mystery",
+          "Manipulate Someone",
+          "Protect Someone",
+          "Read A Bad Situation",
+          "Use Magic"
+        ]
+      }
+    ]
+  }
+
+]
